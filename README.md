@@ -81,8 +81,8 @@ for instructions and the project rubric.
 
 ## Call for IDE Profiles Pull Requests
 
-![Simulator with dataset 1](images/1.png)
-![Simulator with dataset 1](images/2.png)
+![Simulator with dataset 1](images/1.PNG)
+![Simulator with dataset 1](images/2.PNG)
 
 
 
